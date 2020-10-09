@@ -4,236 +4,236 @@ msgstr ""
 "Project-Id-Version: Appimageshortcut 3.13.0\n"
 "PO-Revision-Date: 2020-10-09 08:30 UTC\n"
 "Last-Translator: david <david@david-PC>\n"
-"Language: en\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1
 msgid "Appimage Shortcut Creator"
-msgstr ""
+msgstr "Creazione scorciatoie AppImage"
 
 #: About.form:48
 msgid "https://app4deepin.com"
-msgstr ""
+msgstr "https://app4deepin.com"
 
 #: About.form:58
 msgid "AppImage Shortcut Creator"
-msgstr ""
+msgstr "Creazione scorciatoie AppImage"
 
 #: About.form:77
 msgid "Easily create shortcuts for AppImage"
-msgstr ""
+msgstr "Crea facilmente le scorciatoie per AppImage"
 
 #: FMain.form:45
 msgid "Menu1"
-msgstr ""
+msgstr "Menu1"
 
 #: FMain.form:49
 msgid "Manage applications"
-msgstr ""
+msgstr "Gestisci applicazioni"
 
 #: FMain.form:53 Help.form:45
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 #: FMain.form:57
 msgid "Report a bug"
-msgstr ""
+msgstr "Segnala un problema"
 
 #: FMain.form:64
 msgid "Donate"
-msgstr ""
+msgstr "Donazioni"
 
 #: FMain.form:68
 msgid "Changelog"
-msgstr ""
+msgstr "Novità"
 
 #: FMain.form:72
 msgid "About"
-msgstr ""
+msgstr "Info"
 
 #: FMain.form:76 appcreated.form:79
 msgid "Quit"
-msgstr ""
+msgstr "Termina"
 
 #: FMain.form:104
 msgid "Appimage or executable"
-msgstr ""
+msgstr "Appimage o eseguibile"
 
 #: FMain.form:110
 msgid "App icon"
-msgstr ""
+msgstr "Icona App"
 
 #: FMain.form:116
 msgid "Enter the app name for the shortcut"
-msgstr ""
+msgstr "Inserisci il nome dell'app per cui creare la scorciatoia"
 
 #: FMain.form:153
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 #: FMain.form:159
 msgid "Choose"
-msgstr ""
+msgstr "Scegli"
 
 #: FMain.form:172
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: FMain.form:172
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: FMain.form:172
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: FMain.form:172
 msgid "Music"
-msgstr ""
+msgstr "Musica"
 
 #: FMain.form:172
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: FMain.form:172
 msgid "Graphics"
-msgstr ""
+msgstr "Grafica"
 
 #: FMain.form:172
 msgid "Office"
-msgstr ""
+msgstr "Ufficio"
 
 #: FMain.form:172
 msgid "Development"
-msgstr ""
+msgstr "Sviluppo"
 
 #: FMain.form:172
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #: FMain.form:172
 msgid "Others"
-msgstr ""
+msgstr "Altro"
 
 #: FMain.form:224
 msgid "CREATE"
-msgstr ""
+msgstr "CREA"
 
 #: FMain.class:116 gerer.class:48
 msgid "Error"
-msgstr ""
+msgstr "Errore"
 
 #: FMain.class:117
 msgid " Please give a name for the shortcut"
-msgstr ""
+msgstr "Per cortesia attribuisci un nome alla scorciatoia"
 
 #: FMain.class:120
 msgid " Please give select a Appimage or executable"
-msgstr ""
+msgstr "Per cortesia seleziona se AppImage o eseguibile"
 
 #: FMain.class:123
 msgid " Please give select an icon"
-msgstr ""
+msgstr "Per cortesia seleziona un'icona"
 
 #: Help.form:51
 msgid "The AppImage file will be moved automatically to an application folder which has been specially created to group your AppImages."
-msgstr ""
+msgstr "Il file AppImage verrà spostato automaticamente in una cartella dell'applicazione che è stata creata appositamente per raggruppare le tue AppImage."
 
 #: Help.form:58
 msgid "3 - Choose an icon"
-msgstr ""
+msgstr "Scegli un'icona"
 
 #: Help.form:64
 msgid "Choose an image (PNG, JPG or SVG). The icon will be copied automatically to an icon folder which has been specially created your icons."
-msgstr ""
+msgstr "Scegli un'immagine (PNG, JPG o SVG). L'icona verrà copiata automaticamente in una cartella contenente le icone che è stata appositamente creata."
 
 #: Help.form:71
 msgid "1 - Type a name for the shortcut"
-msgstr ""
+msgstr "Digita un nome per la scorciatoia"
 
 #: Help.form:78
 msgid "2 - Choose the AppImage file"
-msgstr ""
+msgstr "Scegli il file AppImage"
 
 #: Help.form:85
 msgid "4 - Select a category and clic create button"
-msgstr ""
+msgstr "Seleziona una categoria e clicca sul pulsante CREA"
 
 #: Help.form:92
 msgid "1 - Manage your applications"
-msgstr ""
+msgstr "Gestisci le tue applicazioni"
 
 #: Help.form:98
 msgid "You can manage your installed AppImage application by going to the menu at the top right. You will be able to see the installed applications and delete the one that you no longer use."
-msgstr ""
+msgstr "Puoi gestire le tue applicazione AppImage andando nel menu in alto a destra. Potrai vedere le applicazioni installate ed eliminare quelle che non utilizzi più."
 
 #: Help.form:105
 msgid "Create a shorcut"
-msgstr ""
+msgstr "Crea scorciatoia"
 
 #: Help.form:112
 msgid "Manage your applications"
-msgstr ""
+msgstr "Gestisci applicazioni"
 
 #: Help.form:119
 msgid "2 - Update your applications"
-msgstr ""
+msgstr "Aggiorna le applicazioni"
 
 #: Help.form:125
 msgid "if your appimage does not update by itself and you have to download the new version, you will have to delete the installed one before creating a new shortcut for the new version."
-msgstr ""
+msgstr "se la tua appimage non si aggiorna da sola e devi scaricare la nuova versione, dovrai eliminare quella installata prima di creare un nuovo collegamento per la nuova versione."
 
 #: appcreated.form:53
 msgid "Shortcut created !"
-msgstr ""
+msgstr "Scorciatoia creata !"
 
 #: appcreated.form:70
 msgid "New shortcut"
-msgstr ""
+msgstr "Nuova scorciatoia"
 
 #: appimage.form:44 imageselect.form:42
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: appimage.form:50 imageselect.form:36
 msgid "Select"
-msgstr ""
+msgstr "Seleziona"
 
 #: donate.form:56
 msgid "Thank you for your support"
-msgstr ""
+msgstr "Grazie del supporto"
 
 #: gerer.form:66
 msgid "Applications folder"
-msgstr ""
+msgstr "Cartella App"
 
 #: gerer.form:76
 msgid "DELETE"
-msgstr ""
+msgstr "ELIMINA"
 
 #: gerer.form:85
 msgid "Icons folder"
-msgstr ""
+msgstr "Cartella icone"
 
 #: gerer.class:9
 msgid " application installed"
-msgstr ""
+msgstr " applicazione installata"
 
 #: gerer.class:17
 msgid " applications installed"
-msgstr ""
+msgstr " applicazioni installate"
 
 #: gerer.class:49
 msgid " Please select an app for deleting"
-msgstr ""
+msgstr " Seleziona un'app da eliminare"
 
 #: gerer.class:57
 msgid "Done"
-msgstr ""
+msgstr "Fatto"
 
 #: gerer.class:58
 msgid " App deleted"
-msgstr ""
+msgstr " App eliminata"
 
